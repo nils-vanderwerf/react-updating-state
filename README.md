@@ -322,7 +322,6 @@ import React, {Component} from 'react';
 class ButtonCounter extends Component {
   constructor() {
     super()
-    // initial state has count set at 0
     this.state = {
       count: 0
     }
